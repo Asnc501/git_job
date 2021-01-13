@@ -1,0 +1,4 @@
+Devops is a software development methodology which improves the collaboration
+between developers and operations team using various automation tools. These
+automation tools are implemented using various stages which are a part of the Devops
+Lifecycle

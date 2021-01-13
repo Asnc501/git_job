@@ -1,0 +1,4 @@
+The stage is a critical point in the whole Devops Lifecycle. It
+deals with integrating the different stages of the devops
+lifecycle, and is therefore the key in automating the whole
+Devops Process
